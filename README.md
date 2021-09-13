@@ -2,7 +2,7 @@
  <p align="left">Zaman Bir Geri Sayım 😋</p>
 <img src="https://komarev.com/ghpvc/?username=Cennk-js&label=Profile%20views&color=7de27d&style=flat"
 <div align="center">
-    <a href="https://discord.com/users/536856882703499264" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/442257746289754124"></a>
+ <a href="https://discord.com/users/536856882703499264" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/442257746289754124"></a>
 </div>
 
 <h3>My Personal accounts:</h3>
